@@ -1,6 +1,8 @@
 # Brick Manufacturing Performance and Downtime Analysis
 
-Prepared by Caio Bergamo | Independent portfolio project
+*Prepared by Caio Bergamo*
+
+[Back to project overview](README.md) · [Data source and methodology](DATA_SOURCE.md)
 
 ## Executive summary
 
